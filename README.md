@@ -2,13 +2,13 @@
 
 # Fill in the below information:
 
-  ## Name: 
+  ## Name: Ankur Vinayak Dhok
 
-  ## Email: 
+  ## Email: ankurdhok341@gmail.com
 
-  ## Roll No:
+  ## Roll No: 112003009
 
-  ## Branch: 
+  ## Branch: Computer Engineering
 
 # Instructions:
 
